@@ -12,10 +12,10 @@ metadata:
     - infrastructure
     - github-actions
   annotations:
-    github.com/project-slug: ramabp/terraform-secure-infra
+    github.com/project-slug: ramaramala/terraform-secure-infra
     backstage.io/techdocs-ref: dir:.
     # Enables GitHub Actions plugin integration
-    github.com/actions: ramabp/terraform-secure-infra
+    github.com/actions: ramaramala/terraform-secure-infra
 
 spec:
   type: service
